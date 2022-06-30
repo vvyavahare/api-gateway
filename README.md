@@ -15,4 +15,6 @@ This is an API Gateway Service to route all calls to below respective services.
 
 ```shell
 git clone git@github.com:vvyavahare/api-gateway.git
+git clone git@github.com:vvyavahare/naming-server.git
+
 ```
