@@ -9,3 +9,10 @@ This is an API Gateway Service to route all calls to below respective services.
 ## Complete architecture of System
 
 ![](/Users/vvyavahare/src/apps/currency/spring-microservices-v2-main/03.microservices/api-gateway/src/main/resources/architecture.png)
+
+
+## Steps to setup project
+
+```shell
+git clone git@github.com:vvyavahare/api-gateway.git
+```
