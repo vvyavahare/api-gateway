@@ -7,4 +7,5 @@ This is an API Gateway Service to route all calls to below respective services.
 * Currency-Analytics-Service
 
 ## Complete architecture of System
-![](/Users/vvyavahare/Desktop/Screenshot 2022-06-30 at 11.43.06 AM.png)
+
+![](/Users/vvyavahare/src/apps/currency/spring-microservices-v2-main/03.microservices/api-gateway/src/main/resources/architecture.png)
