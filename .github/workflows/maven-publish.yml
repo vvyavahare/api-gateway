@@ -59,7 +59,7 @@ jobs:
       - name: Maven Verify
         run: mvn -B clean verify
   sonar:
-    name: Test - SonarCloud Scan
+    name: SonarCloud Scan
     runs-on: ubuntu-18.04
 
     steps:

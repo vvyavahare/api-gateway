@@ -12,6 +12,10 @@ public class ApiGatewayConfiguration {
 
   @Bean
   public RouteLocator gatewayRouter(RouteLocatorBuilder builder) {
+    String v = null;
+    if (v.equals("test")) {
+      log.trace("fail test");
+    }
     log.trace("Routing via gateway router");
     return builder.routes()
         .route(p -> p
