@@ -12,7 +12,7 @@ public class ApiGatewayConfiguration {
 
   @Bean
   public RouteLocator gatewayRouter(RouteLocatorBuilder builder) {
-
+    log.trace("more dummy logger added.");
     log.trace("Routing via gateway router");
     return builder.routes()
         .route(p -> p
