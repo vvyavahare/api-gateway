@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ApiGatewayApplication {
 
   public static void main(String[] args) {
-    log.info("Started application...");
+    log.info("Started application....");
     SpringApplication.run(ApiGatewayApplication.class, args);
   }
 
